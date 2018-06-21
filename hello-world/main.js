@@ -1,6 +1,6 @@
 
 
 ReactDOM.render(
-    React.createElement('h1', undefined, 'hello world'),
+    <h1>Hello world</h1>,
     document.getElementById('root')
 )
